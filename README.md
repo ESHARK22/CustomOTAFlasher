@@ -1,7 +1,4 @@
-# Tauri + Vanilla
+# A Simple ROM downloader/installer
+A simple app which downloads and installes a rom zip by flashing a recovery, and then using the ota update commands to start the zip after a reboot
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+A todolist can be found [here](https://todo.eshark.tech/share/71TfwnsR8Um4vgr3CDcg1yOleIa137WDCSjLaYFa/auth?view=31)
